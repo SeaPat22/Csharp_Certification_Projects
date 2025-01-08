@@ -1,0 +1,14 @@
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\TestProject13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\TestProject13.AssemblyInfoInputs.cache
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\TestProject13.AssemblyInfo.cs
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\TestProject13.csproj.CoreCompileInputs.cache
+C:\Users\spkde\CsharpProjects\TestProject13\bin\Debug\net9.0\TestProject13.exe
+C:\Users\spkde\CsharpProjects\TestProject13\bin\Debug\net9.0\TestProject13.deps.json
+C:\Users\spkde\CsharpProjects\TestProject13\bin\Debug\net9.0\TestProject13.runtimeconfig.json
+C:\Users\spkde\CsharpProjects\TestProject13\bin\Debug\net9.0\TestProject13.dll
+C:\Users\spkde\CsharpProjects\TestProject13\bin\Debug\net9.0\TestProject13.pdb
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\TestProject13.dll
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\refint\TestProject13.dll
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\TestProject13.pdb
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\TestProject13.genruntimeconfig.cache
+C:\Users\spkde\CsharpProjects\TestProject13\obj\Debug\net9.0\ref\TestProject13.dll
